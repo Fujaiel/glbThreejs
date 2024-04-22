@@ -1,0 +1,388 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2437,
+      "max": [9.026776313781738, 179.2394561767578, 11.362140655517578],
+      "min": [-9.026776313781738, 156.8053436279297, -4.446902751922607],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 29244,
+      "componentType": 5126,
+      "count": 2437,
+      "max": [0.9997672438621521, 0.9965375065803528, 0.9999294281005859],
+      "min": [-0.9997671842575073, -0.9999939203262329, -0.9989016652107239],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2437,
+      "max": [0.9867110252380371, 0.9873120784759521],
+      "min": [0.013287000358104706, 0.005619000177830458],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 13824,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 58488,
+      "componentType": 5126,
+      "count": 731,
+      "max": [10.017210960388184, 179.9473114013672, 3.0111947059631348],
+      "min": [-10.017208099365234, 146.21768188476563, -11.836406707763672],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 67260,
+      "componentType": 5126,
+      "count": 731,
+      "max": [0.9997363686561584, 0.9988031387329102, 0.999281108379364],
+      "min": [-0.9997364282608032, -0.7239182591438293, -0.9982985854148865],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 19496,
+      "componentType": 5126,
+      "count": 731,
+      "max": [1.9421000480651855, 0.988053023815155],
+      "min": [1.0578999519348145, 0.6333010196685791],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 55296,
+      "componentType": 5125,
+      "count": 3744,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 76032,
+      "componentType": 5126,
+      "count": 508,
+      "max": [5.038000583648682, 170.37234497070313, 7.797483444213867],
+      "min": [-5.038000583648682, 166.76805114746094, 4.86556339263916],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 82128,
+      "componentType": 5126,
+      "count": 508,
+      "max": [0.9881653189659119, 0.9881131052970886, 1.0],
+      "min": [-0.9881640672683716, -0.9879668354988098, -1.0],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 25344,
+      "componentType": 5126,
+      "count": 508,
+      "max": [0.9850201606750488, 0.9853820204734802],
+      "min": [0.014979839324951172, 0.057579800486564636],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 70272,
+      "componentType": 5125,
+      "count": 2448,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 88224,
+      "componentType": 5126,
+      "count": 360,
+      "max": [6.09566593170166, 169.92758178710938, 9.320926666259766],
+      "min": [-6.09566593170166, 167.35145568847656, 7.273737907409668],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 92544,
+      "componentType": 5126,
+      "count": 360,
+      "max": [0.6752474904060364, 0.9912402629852295, 0.8381279706954956],
+      "min": [-0.6755368709564209, -0.9998040199279785, 0.0141754150390625],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 29408,
+      "componentType": 5126,
+      "count": 360,
+      "max": [0.9818300008773804, 0.984375],
+      "min": [0.01816990040242672, 0.018942000344395638],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 80064,
+      "componentType": 5125,
+      "count": 1512,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Mesh Artech (https://sketchfab.com/meshatrech)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/female-head-3-d-model-923a9173126043a9b810b2953f0dfca2",
+      "title": "Female_Head_3_d_Model"
+    },
+    "generator": "Sketchfab-16.11.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 86112,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32288,
+      "byteOffset": 86112,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 96864,
+      "byteOffset": 118400,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 215264,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Face1_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Torse_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Eyes1_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Eyelashes_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Face1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Torse",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Eyes1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "Eyelashes",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [0.0, 0.0, 0.0, 1.0],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Head_Face1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Head_Torse_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Eyes_Eyes1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Eyeslashes_Eyelashes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [1],
+      "matrix": [
+        1.0, 0.0, 0.0, 0.0, 0.0, 2.220446049250313e-16, -1.0, 0.0, 0.0, 1.0,
+        2.220446049250313e-16, 0.0, 0.0, 0.0, 0.0, 1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [2],
+      "matrix": [
+        0.009999999776482582, 0.0, 0.0, 0.0, 0.0, 0.0, 0.009999999776482582,
+        0.0, 0.0, -0.009999999776482582, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0
+      ],
+      "name": "Female_Head_3_d_Model.fbx"
+    },
+    {
+      "children": [3],
+      "name": "RootNode"
+    },
+    {
+      "children": [4, 7, 9],
+      "name": "Female_Head_3_d_Model"
+    },
+    {
+      "children": [5, 6],
+      "name": "Head"
+    },
+    {
+      "mesh": 0,
+      "name": "Head_Face1_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Head_Torse_0"
+    },
+    {
+      "children": [8],
+      "name": "Eyes"
+    },
+    {
+      "mesh": 2,
+      "name": "Eyes_Eyes1_0"
+    },
+    {
+      "children": [10],
+      "name": "Eyeslashes"
+    },
+    {
+      "mesh": 3,
+      "name": "Eyeslashes_Eyelashes_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [0]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}
